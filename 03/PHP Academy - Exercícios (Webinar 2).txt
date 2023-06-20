@@ -1,0 +1,9 @@
+
+    // Construa um formulário que receba 3 campos:
+    //  - Valor inicial
+    //  - Valor final
+    //  - Valor múltiplo
+    // Obtenha a soma dos valores múltiplos de "valor múltiplo",
+    // existentes no intervalo de números entre o valor inicial e final (incluindo-os).
+    // Para 5, 12 e 2 o resultado é 36.
+    // Com validação a prova de falhas de usuário.
